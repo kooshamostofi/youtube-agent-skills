@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Viral"
+  short_description: "Research comparable YouTube outliers relative to their chann"
+  default_prompt: "Use $yt-viral for the current YouTube task, respecting approved project decisions."

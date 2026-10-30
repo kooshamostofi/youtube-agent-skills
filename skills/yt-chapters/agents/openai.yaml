@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Chapters"
+  short_description: "Propose and validate chapters from timestamped speech when n"
+  default_prompt: "Use $yt-chapters for the current YouTube task, respecting approved project decisions."

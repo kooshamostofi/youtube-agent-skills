@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Audit"
+  short_description: "Audit a YouTube channel or launch package and prioritize evi"
+  default_prompt: "Use $yt-audit for the current YouTube task, respecting approved project decisions."

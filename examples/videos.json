@@ -1,0 +1,26 @@
+[
+  {
+    "channel": "Synthetic Example",
+    "title": "The Visitor",
+    "views": 1000,
+    "url": "https://example.com/video/0"
+  },
+  {
+    "channel": "Synthetic Example",
+    "title": "An Empty Room",
+    "views": 2000,
+    "url": "https://example.com/video/1"
+  },
+  {
+    "channel": "Synthetic Example",
+    "title": "The Quiet Call",
+    "views": 3000,
+    "url": "https://example.com/video/2"
+  },
+  {
+    "channel": "Synthetic Example",
+    "title": "A Door to Tomorrow",
+    "views": 10000,
+    "url": "https://example.com/video/3"
+  }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Comment"
+  short_description: "Triage supplied YouTube comments and draft channel-appropria"
+  default_prompt: "Use $yt-comment for the current YouTube task, respecting approved project decisions."

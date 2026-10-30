@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Package"
+  short_description: "Create and compare YouTube title-thumbnail pairs and briefs;"
+  default_prompt: "Use $yt-package for the current YouTube task, respecting approved project decisions."

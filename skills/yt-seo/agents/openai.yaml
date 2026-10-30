@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Seo"
+  short_description: "Draft accurate YouTube descriptions, relevant tags and disco"
+  default_prompt: "Use $yt-seo for the current YouTube task, respecting approved project decisions."

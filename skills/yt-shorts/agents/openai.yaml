@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Shorts"
+  short_description: "Plan self-contained Shorts or teasers from existing films, f"
+  default_prompt: "Use $yt-shorts for the current YouTube task, respecting approved project decisions."

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "youtube-agent-skills",
+  "version": "1.0.0",
+  "description": "Eleven creator workflows and six dependency-free Python tools for ChatGPT and Codex.",
+  "license": "MIT",
+  "repository": "https://github.com/kooshamostofi/youtube-agent-skills"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Script"
+  short_description: "Develop YouTube scripts and visual opening hooks; use for ne"
+  default_prompt: "Use $yt-script for the current YouTube task, respecting approved project decisions."

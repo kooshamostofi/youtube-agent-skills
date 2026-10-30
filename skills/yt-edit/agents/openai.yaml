@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Edit"
+  short_description: "Review timestamped transcripts for candidate cuts; use for d"
+  default_prompt: "Use $yt-edit for the current YouTube task, respecting approved project decisions."
